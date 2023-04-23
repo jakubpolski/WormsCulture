@@ -1,6 +1,6 @@
 # WormsCulture
 
-A simple program created for a school project as a lerning experience of C++ basics and development in Visual Studio.
+A simple program created for a school project as a learning experience of C++ basics and development in Visual Studio.
 
 It's purpose is to simulate life of a certain culture of worms, depending on currently set parameters.
 
