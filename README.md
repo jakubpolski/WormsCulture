@@ -11,3 +11,6 @@ The main features are:
 - A terribly slow map renderer
 
 The program was only tested on a fullscreen window with a 1920x1080 monitor and will work only on Windows, lowering the window size will most likely break the map rendering.
+
+# Example
+![](https://github.com/jakubpolski/WormsCulture/blob/master/example.gif)
